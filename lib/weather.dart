@@ -23,3 +23,5 @@ class Weather{
 
 
 var listWeather = <Weather>[];
+var listWeatherHariIni = <Weather>[];
+var listWeatherBesok = <Weather>[];
